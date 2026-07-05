@@ -16,7 +16,7 @@
 
 ### What I do
 
-- **Websites for real businesses.** Restaurants, clinics, manufacturers and agencies in Pakistan run on sites I've designed, built and shipped — from first mockup to live hosting.
+- **Complete business websites.** Production-quality sites for restaurants, clinics and manufacturers — built end to end, from first mockup to live deployment. I build and manage the website for Aayan Cotton Industries, a surgical textile exporter.
 - **Motion-first frontends.** Scroll-driven storytelling, 3D scenes, and micro-interactions that make a page feel alive — React, TypeScript, Tailwind, Framer Motion, GSAP and Three.js.
 - **Creative coding.** Webcam-reactive generative art on `<canvas>` — L-systems, procedural drawing and real-time hand tracking with MediaPipe.
 
@@ -36,7 +36,7 @@
 
 - Design and code in the same head: I care about type scale, spacing and easing curves as much as bundle size and Lighthouse scores.
 - Every project above is deployed and clickable — I ship, not just push.
-- Fast iterations with clients, from local businesses to agencies.
+- Comfortable taking a project from idea to deployed site on my own.
 
 ### Contact
 
